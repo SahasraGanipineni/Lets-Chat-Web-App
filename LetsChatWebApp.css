@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-image: url("Background_Image.jpg");
+    background-size: cover;
+}
+
+#heading, #discription, #label, #user_name{
+    color: blue;
+}

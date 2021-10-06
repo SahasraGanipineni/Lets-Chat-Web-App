@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image: url("Background_Image.jpg");
+    background-size: cover;
+}
+
+#heading , #sendLabel{
+    color: blue;
+}
+
+#logout
+{
+	font-size: 20px;
+	float: right;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+
+#sendButton{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+
+#msg{
+    color: blue;
+    width: 500px;
+    margin-left: 400px;
+}

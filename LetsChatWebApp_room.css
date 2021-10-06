@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-image: url("Background_Image.jpg");
+    background-size: cover;
+}
+
+.header{
+    color: blue;
+}
+
+#logout
+{
+	font-size: 20px; 
+    float: right;
+    background-color: blue;
+    color: white;
+}
+
+#AddRoom , #room_name , #trendingRooms , #output{
+    color: blue;
+}
+
+#Button_AddRoom{
+    background-color: blue;
+    color: white;
+}
